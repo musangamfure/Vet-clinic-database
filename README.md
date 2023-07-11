@@ -30,26 +30,11 @@ In this project, I used a relational database to create the initial data structu
 
 # 📖 [Vet Clinic Database] <a name="about-project"></a>
 
-**[Vet Clinic Database]** is a project, intends to use a relational database to create the initial data structure for a vet clinic
+**[Vet Clinic Database]** is a project, that intends to use a relational database to create the initial data structure for a vet clinic
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="#">none</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="#">none</a></li>
-  </ul>
-</details>
 
 <details>
 <summary>Database</summary>
@@ -61,8 +46,6 @@ In this project, I used a relational database to create the initial data structu
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-
-> Describe between 1-3 key features of the application.
 
 - **[Create Table]**
 - **[Store Data]**
@@ -140,8 +123,6 @@ N/A
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
 - [ ] **[More Tables]**
 - [ ] **[Join Tables]**
 - [ ] **[Performance audit for Database]**
@@ -162,8 +143,6 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
 If you like this project give it a star 🤩
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -172,7 +151,7 @@ If you like this project give it a star 🤩
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse for the Knowledge and supports
+I would like to thank Microverse for the Knowledge and support
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
