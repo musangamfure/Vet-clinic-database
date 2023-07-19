@@ -91,12 +91,6 @@ To run the project, execute the following command:
 
 👤 **Author1**
 
-- GitHub: [@bronnie313](https://github.com/bronnie313)
-- Twitter: [@bisaso_r](https://twitter.com/bisaso_r)
-- LinkedIn: [Ronald Bisaso](https://linkedin.com/in/BisasoRonald)
-
-👤 **Author2**
-
 👤 **Emmnauel Musangamfura**
 
 - [GitHub](https://github.com/musangamfure)
